@@ -1,4 +1,4 @@
-# Installation instructions
+# Installation instructions for dev
 
 1. Download / Clone this  project to local folder
 2. Open project in IDE (Eclipse)
